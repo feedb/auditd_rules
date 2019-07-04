@@ -51,6 +51,6 @@
 -w /usr/bin/sftp -p x -k fileaud_dlutil_/usr/bin/sftp
 # access and edit data in folder
 -w /home -p r -k fileaud_home_read
--w /home -p wa -k fileaud_home_moв
+-w /home -p wa -k fileaud_home_mod
 -w /root -p r -k fileaud_root_read
 -w /root -p wa -k fileaud_root_mod
